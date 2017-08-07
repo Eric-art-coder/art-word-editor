@@ -11,3 +11,6 @@
 ### demo
 
 [案例](https://guimeisang.github.io/art-word-editor/ArtRenderByCss3/index.html)
+
+### 其他
+如果有任何建议和修改都欢迎提issues，或者是发邮件到792300489@qq.com
